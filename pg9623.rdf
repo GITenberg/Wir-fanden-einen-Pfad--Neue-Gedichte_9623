@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <pgterms:ebook rdf:about="ebooks/9623">
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/9623/9623-h.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N942a1ab00d244248aded509e9470f814">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N959f8edbb75f439d9558eef00e013bc2">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=iso-8859-1</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/9623"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-24T10:34:34</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18867</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/9623/9623-h/9623-h.htm">
+        <dcterms:isFormatOf rdf:resource="ebooks/9623"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-24T10:34:02</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57571</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N6280e09ce1fc412c81aa879aaa9ee202">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=iso-8859-1</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9623.txt.utf-8">
+        <dcterms:isFormatOf rdf:resource="ebooks/9623"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-25T09:25:40.699170</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45262</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N4f69c08a57ac48a69b7f9d7191acb5fa">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/9623/9623-8.txt">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44977</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/9623"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N777fbfb1440643b99ce87bbcead53360">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=iso-8859-1</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-24T10:33:50</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:tableOfContents>"Brüder!"&#13;
+An den andern&#13;
+An eine Freundin&#13;
+(an einige)&#13;
+(an manche)&#13;
+(an viele)&#13;
+Bedenke, Freund ...&#13;
+Da nimm&#13;
+Das bloße Wollen ...&#13;
+Das ist der Ast in deinem Holz&#13;
+Der Engel ...&#13;
+Der Kranke&#13;
+Die Fußwaschung&#13;
+Die Sonne will sich sieben Male spiegeln&#13;
+Die zur Wahrheit wandern&#13;
+Du Weisheit meines höhern Ich&#13;
+Du hast die Hand schon am Portal ...&#13;
+Einen Freund über seinen Liebeskummer zu trösten&#13;
+Erblinden mag ich ...&#13;
+Evolution&#13;
+Faß es, was sich dir enthüllt!&#13;
+Geschöpf nicht mehr ...&#13;
+Gib mir den Anblick deines Seins&#13;
+Hymne&#13;
+Ich bin aus Gott wie alles Sein geboren&#13;
+Ich habe den MENSCHEN gesehn ...&#13;
+Ich hebe Dir mein Herz empor&#13;
+Ich will aus allem nehmen ...&#13;
+Im Baum, du liebes Vöglein dort&#13;
+Leis auf zarten Füßen naht es&#13;
+Licht ist Liebe&#13;
+Lucifer&#13;
+Mit-erwacht&#13;
+Mond am Mittag&#13;
+Nach der Lektüre des Helsingforsers Cyclus 1912&#13;
+Nun wohne DU darin&#13;
+O Nacht ...&#13;
+O gib mir Freuden&#13;
+O ihr kleinmütig Volk&#13;
+O wie gerne lern ich Milde&#13;
+Sieh nicht, was andre tun&#13;
+Stör' nicht den Schlaf der liebsten Frau&#13;
+Von zwei Rosen ...&#13;
+Was klagst du an ...&#13;
+Wasserfall bei Nacht&#13;
+Wer vom Ziel nicht weiß ...&#13;
+Wie macht' ich mich von DEINEM Zauber los&#13;
+Wir fanden einen Pfad&#13;
+Überwinde!</dcterms:tableOfContents>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/9623/9623-8.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nb4e78d577be549898d7eb9b6b9e4abe9">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=iso-8859-1</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17160</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-24T10:34:34</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/9623"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N3b9baff38662417bb4f51c0295c374ca">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N410d1b8665bc46759bd7686b42de1add">
+        <rdf:value>German poetry -- 20th century</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9623.kindle.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/9623"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">105868</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-25T09:25:42.725045</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N015abefbab3240788f8d316d6228aa4d">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N09919f9c65324442b8f989ca44fac68e">
+        <rdf:value>PT</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/3106">
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1914</pgterms:deathdate>
+        <pgterms:name>Morgenstern, Christian</pgterms:name>
+        <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Christian_Morgenstern"/>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1871</pgterms:birthdate>
+        <pgterms:webpage rdf:resource="http://de.wikipedia.org/wiki/Christian_Morgenstern"/>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9623.epub.noimages">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41529</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/9623"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-25T09:25:41.323730</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N8f22c0cefbfb4a23ae497c48b4df53ed">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:title>Wir fanden einen Pfad: Neue Gedichte</dcterms:title>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N917ba7a595514abc9a6e851390aef804">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">de</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9623.qioo">
+        <dcterms:isFormatOf rdf:resource="ebooks/9623"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79100</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-25T09:25:40.848165</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N83364f50a7a6417bb19a296bf938d579">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-qioo-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9623.plucker">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-25T09:25:41.834616</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26329</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N52b2113cdbeb4445ae86188a7c1cdf4a">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/prs.plucker</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/9623"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="Ncbba27ecf985482788d2dfcb23380282">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</pgterms:downloads>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-01</dcterms:issued>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+  </cc:Work>
+  <rdf:Description rdf:about="http://de.wikipedia.org/wiki/Christian_Morgenstern">
+    <dcterms:description>de.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Christian_Morgenstern">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
