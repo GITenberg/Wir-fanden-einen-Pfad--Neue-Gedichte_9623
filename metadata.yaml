@@ -1,0 +1,44 @@
+_repo: Wir-fanden-einen-Pfad--Neue-Gedichte_9623
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morgenstern, Christian
+    birthdate: 1871
+    deathdate: 1914
+    gutenberg_agent_id: '3106'
+    url: http://www.gutenberg.org/2009/agents/3106
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Christian_Morgenstern
+    - http://de.wikipedia.org/wiki/Christian_Morgenstern
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9623'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German poetry -- 20th century'
+- GITenberg
+tableOfContents: "\"Brüder!\"\r\nAn den andern\r\nAn eine Freundin\r\n(an einige)\r\
+  \n(an manche)\r\n(an viele)\r\nBedenke, Freund ...\r\nDa nimm\r\nDas bloße Wollen\
+  \ ...\r\nDas ist der Ast in deinem Holz\r\nDer Engel ...\r\nDer Kranke\r\nDie Fußwaschung\r\
+  \nDie Sonne will sich sieben Male spiegeln\r\nDie zur Wahrheit wandern\r\nDu Weisheit\
+  \ meines höhern Ich\r\nDu hast die Hand schon am Portal ...\r\nEinen Freund über\
+  \ seinen Liebeskummer zu trösten\r\nErblinden mag ich ...\r\nEvolution\r\nFaß es,\
+  \ was sich dir enthüllt!\r\nGeschöpf nicht mehr ...\r\nGib mir den Anblick deines\
+  \ Seins\r\nHymne\r\nIch bin aus Gott wie alles Sein geboren\r\nIch habe den MENSCHEN\
+  \ gesehn ...\r\nIch hebe Dir mein Herz empor\r\nIch will aus allem nehmen ...\r\n\
+  Im Baum, du liebes Vöglein dort\r\nLeis auf zarten Füßen naht es\r\nLicht ist Liebe\r\
+  \nLucifer\r\nMit-erwacht\r\nMond am Mittag\r\nNach der Lektüre des Helsingforsers\
+  \ Cyclus 1912\r\nNun wohne DU darin\r\nO Nacht ...\r\nO gib mir Freuden\r\nO ihr\
+  \ kleinmütig Volk\r\nO wie gerne lern ich Milde\r\nSieh nicht, was andre tun\r\n\
+  Stör' nicht den Schlaf der liebsten Frau\r\nVon zwei Rosen ...\r\nWas klagst du\
+  \ an ...\r\nWasserfall bei Nacht\r\nWer vom Ziel nicht weiß ...\r\nWie macht' ich\
+  \ mich von DEINEM Zauber los\r\nWir fanden einen Pfad\r\nÜberwinde!"
+title: 'Wir fanden einen Pfad: Neue Gedichte'
+url: http://www.gutenberg.org/ebooks/9623
