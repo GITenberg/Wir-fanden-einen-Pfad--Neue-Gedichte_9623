@@ -1,5 +1,8 @@
 _repo: Wir-fanden-einen-Pfad--Neue-Gedichte_9623
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Morgenstern, Christian
@@ -11,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Christian_Morgenstern
     - http://de.wikipedia.org/wiki/Christian_Morgenstern
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9623#Wir-fanden-einen-Pfad--Neue-Gedichte
 gutenberg_bookshelf: DE Lyrik
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
